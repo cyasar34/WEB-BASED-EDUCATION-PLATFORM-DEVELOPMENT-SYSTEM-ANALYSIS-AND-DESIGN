@@ -26,15 +26,15 @@ WEB TABANLI EĞİTİM PLATFORMU GELİŞTİRME: SİSTEM ANALİZİ VE TASARIMI  / 
 
 Kongre İsmi: SOCRATES 10th INTERNATIONAL HEALTH, ENGINEERING AND APPLIED SCIENCES CONGRESS / ULUSLARARASI 10. SOCRATES SAĞLIK, MÜHENDİSLİK VE UYGULAMALI BİLİMLER KONGRESİ
 
-Kongre Kitabı ISBN No: 
+Kongre Kitabı ISBN No: 978-625-6997-60-8
 
 Kongre Tarihleri: 29-31 Ocak 2025 İSTANBUL / January 29-31, 2025 ISTANBUL
 
 [Kongre İnternet Sayfası](https://ubsder.org.tr/uluslararasi-10-socrates-saglik-muhendislik-ve-uygulamali-bilimler-kongresi/)
 
-[Araştırma Google Akademik Linki](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=uehmKvoAAAAJ&citation_for_view=uehmKvoAAAAJ:W7OEmFMy1HYC)
+[Araştırma Google Akademik Linki](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=uehmKvoAAAAJ&citation_for_view=uehmKvoAAAAJ:UebtZRa9Y70C)
 
-[Araştırma ResearchGate Linki](https://www.researchgate.net/publication/377890791_SOKAK_CANLILARINA_YARDIM_ICIN_WEB_TABANLI_TAKIP_SISTEMI)
+[Araştırma ResearchGate Linki](https://www.researchgate.net/publication/389546055_WEB_TABANLI_EGITIM_PLATFORMU_GELISTIRME_SISTEM_ANALIZI_VE_TASARIMI_WEB-BASED_EDUCATION_PLATFORM_DEVELOPMENT_SYSTEM_ANALYSIS_AND_DESIGN)
 
 [Araştırma Sosyal Medya Linki](https://www.instagram.com/p/DFFHbFBNNIx/)
 
@@ -50,7 +50,7 @@ Abstract:
 - **APA**: Yaşar, Ç., Kaya, A., Hız, İ. & Kaya, O. E. (2025).  Web Tabanlı Eğitim Platformu Geliştirme Sistem Analizi ve Tasarımı. SOCRATES 10th INTERNATIONAL HEALTH, ENGINEERING AND APPLIED SCIENCES CONGRESS (pp.120-127). London, England                            
 - **MLA**: Yaşar, ÇİSEM, Kaya, ABDULKADİR, Hız, İSMAİL, ve KAYA, OZAN EREN.  "Web Tabanlı Eğitim Platformu Geliştirme Sistem Analizi ve Tasarımı"  SOCRATES 10th INTERNATIONAL HEALTH, ENGINEERING AND APPLIED SCIENCES CONGRESS, London, England, pp.120-127, 2025               
 
-![Bildiri Metni](https://github.com/cyasar34/SOKAK-CANLILARINA-YARDIM-ICIN-WEB-TABANLI-TAKIP-SISTEMI/blob/main/sokak_canlilarina_yardim_web_sitesi.PNG)
+![Bildiri Metni](https://github.com/cyasar34/WEB-BASED-EDUCATION-PLATFORM-DEVELOPMENT-SYSTEM-ANALYSIS-AND-DESIGN/blob/main/web_tabanli_egitim_platformu.PNG)
 
 License:
 This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
